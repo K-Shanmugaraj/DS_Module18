@@ -1,5 +1,5 @@
-# Ex28 Dijkstra’s Algorithm
-## DATE:25/4/25
+# Ex6C Dijkstra’s Algorithm
+## DATE: 14-05-2025
 ## AIM:
 To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
